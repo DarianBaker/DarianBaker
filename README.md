@@ -7,7 +7,7 @@ Building web applications using modern stacks (React, Next.js, Spring Boot)<br/>
 Exploring backend architecture, databases, and scalable systems<br/>
 
 ---
-My Teck Stack:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
