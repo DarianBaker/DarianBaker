@@ -1,9 +1,9 @@
 ### Hi, I'm Darian!
 
-Full-Stack Software Developer from Malta<br/>
-Studying Computer Science at the University of Malta<br/>
-Intern Software Developer at GiG<br/>
-Building web applications using modern stacks (React, Next.js, Spring Boot)<br/>
+Back-end Software Developer from Malta<br/>
+Studyied Computer Science at the University of Malta<br/>
+Mid Software Developer at Religa<br/>
+Building web applications using modern stacks (C# .NET10, React, Next.js, Spring Boot)<br/>
 Exploring backend architecture, databases, and scalable systems<br/>
 
 ---
